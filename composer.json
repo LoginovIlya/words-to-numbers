@@ -9,7 +9,7 @@
         "phpunit/php-code-coverage": "^7.0",
         "php-coveralls/php-coveralls": "^2.1"
     },
-    "license": "GNU GPL v2.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "LoginovIlya",
