@@ -1,5 +1,10 @@
 # Words to numbers
 
+## Installation
+
+```
+$ composer require loginovilya/words-to-numbers
+```
 ## Usage
 ```php
 <?php
