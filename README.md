@@ -15,6 +15,6 @@ use WordsToNumbers\WordsToNumbers;
 
 $numberTransformer = WordsToNumbers::getWordsTransformer('ru');
 
-$numberTransformer->toNumbers('два'); \\ 2
-$numberTransformer->toNumbers('девятнадцать'); \\ 19
+$numberTransformer->toNumbers('два'); // 2
+$numberTransformer->toNumbers('девятнадцать'); // 19
 ```
